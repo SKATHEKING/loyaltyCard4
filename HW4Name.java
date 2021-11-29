@@ -3,7 +3,7 @@
  * Represents a name to be used in HW4
  * first [second] last name.
  * 
- * @author A Maughan
+ * @author Mateus Goncalves De Ouro
  * @version 1.0
  */
 public class HW4Name
