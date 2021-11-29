@@ -1,7 +1,7 @@
 /**
  * The HW4LoyaltyCard class holding 
  * basic functionality for KV4001, HW4.
- * @author Alan Maughan
+ * @author Mateus Goncalves De Ouro
  * @version 1.0
  */
 public class HW4LoyaltyCard
